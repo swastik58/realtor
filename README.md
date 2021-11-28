@@ -1,34 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center"> REALTOR </h1>
 
-## Getting Started
+## A WEB APPLICATION TO SEARCH FOR PROPERTIES TO RENT OR BUY ACCORDING TO YOUR NEEDS
 
-First, run the development server:
+## NAVBAR
+- IT CONTAINS THE NAME OF THE SITE WHICH IS A LINK TO THE HOMEPAGE 
+- IT ALSO HAS A MENU ICON
+- DIFFERENT PAGES ARE PRESENT IN THE MENU ICON
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## HOMEPAGE 
+- THIS CONTAINS 6 PROPERTIES TO RENT AND 6 PROPERTIES TO BUY
+- LITTLE DETAILS ABOUT EACH OF THE PROPERTIES ARE PROVIDED BELOW THE IMAGES
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## PROPERTY DETAILS
+- THIS PAGE OPENS WHEN YOU CLICK ON THE IMAGE OF ANY PROPERTY
+- THERE ARE IMAGES OF THAT PROPERTY WHICH YOU CAN SCROLL TO SEE
+- DESCRIPTION ABOUT THE PROPERTY IS ALSO PROVIDED
+- ALSO THE DIFFERENT FACILITIES PROVIDED ARE ALSO LISTED IN BOXES
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## SEARCH
+- YOU CAN SEARCH FOR PROPERTY ACCORDING TO YOUR NEEDS
+- DIFFERENT FILTER OPTIONS ARE PROVIDED WHICH CAN BE USED TO GET THE DESIRED PROPERTY
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## FOOTER
+- THE MOST SIMPLEST FOOTER IS THERE AT THE BOTTOM OF THE PAGE
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
-## Learn More
+## WEBSITE HOSTED USING [NETLIFY](https://www.netlify.com/)
+## LINK TO THE WEBSITE - 
 
-To learn more about Next.js, take a look at the following resources:
+babelrc
+@chakra-ui/react @emotion/react @emotion/styled axios framer-motion millify nprogress react-horizontal-scrolling-menu react-icons
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## THIS WEB APP WAS BUILD USING : 
+- [CHAKRA UI](https://chakra-ui.com/)
+- [EMOTION REACT](https://www.npmjs.com/package/@emotion/react)
+- [AXIOS](https://axios-http.com/)
+- [MILLIFY](https://www.npmjs.com/package/millify/v/2.0.0)
+- [NPROGRESS](https://www.npmjs.com/package/nprogress)
+- [REACT ICONS](https://react-icons.github.io/react-icons/)
+- [REACT HORIZONTAL SCROLLING MENU](https://www.npmjs.com/package/react-horizontal-scrolling-menu)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### IF YOU LIKE THIS PROJECT, DO NOT FORGET TO STAR THIS REPOSITORY 😉
