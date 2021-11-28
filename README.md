@@ -26,7 +26,7 @@
 
 
 ## WEBSITE HOSTED USING [NETLIFY](https://www.netlify.com/)
-## LINK TO THE WEBSITE - 
+## LINK TO THE WEBSITE - https://realtor-swastik58.vercel.app/
 
 babelrc
 @chakra-ui/react @emotion/react @emotion/styled axios framer-motion millify nprogress react-horizontal-scrolling-menu react-icons
